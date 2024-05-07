@@ -1,3 +1,6 @@
+# Architecture
+![Gitops](gitops.png)
+
 # Prerequisites
 #####
 - JDK 11
